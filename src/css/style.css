@@ -1,0 +1,50 @@
+.crd{
+    width: 300px;
+    text-align: center;
+    /* margin: 30px 30px;      | work can be done with this technique         */
+}
+
+.ctr{
+    gap: 30px;
+    justify-content: center;
+    margin-top:40px;
+} 
+
+ .mcrl{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.crl{
+    width: 1200px;
+    margin-top: 50px;
+}
+
+
+.nv{
+    position: fixed;
+    width: 1300px;
+    margin: 0px 25px;
+    top: 0;
+    z-index: 1;
+}
+
+.rftr{
+    position: relative;
+}
+
+.ftr{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    width: 1300px;
+    height: 60px;
+    margin: 0px 25px;
+    position: absolute;
+    bottom: -80px;
+}
+
+.h{
+    color: royalblue;
+    background-color: black;
+}
